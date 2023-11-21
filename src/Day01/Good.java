@@ -1,4 +1,4 @@
-package Ex01.basic;
+package Day01;
 
 public class Good {
     public static void main(String[] args) {

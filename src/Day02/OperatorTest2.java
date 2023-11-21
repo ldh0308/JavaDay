@@ -1,4 +1,4 @@
-package Ex02;
+package Day02;
 
 public class OperatorTest2 {
     public static void main(String[] args) {

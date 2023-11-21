@@ -1,4 +1,4 @@
-package Ex03; // 사용자 package 가 우선순위
+package Day02_1; // 사용자 package 가 우선순위
 
 import java.util.Scanner; // 사용할 패키지 임포트 하기  //java.lang package 자동 임포트 됌
 

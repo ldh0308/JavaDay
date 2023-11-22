@@ -15,7 +15,6 @@ public class IfQuiz03 {
                 System.out.println("평년");
             }
         } else {
-            System.out.println("평년");
-        }
+            System.out.println("평년");         }
     }
 }

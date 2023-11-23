@@ -9,7 +9,7 @@ public class DailyExample {
                 count++;
 
             }
-            System.out.println(count); // 다시풀기
+            System.out.println(count); // 다시풀기//
         }
 
 

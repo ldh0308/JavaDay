@@ -16,7 +16,7 @@ public class DoWhileExam01 {
 
             System.out.println("점수 더 입력 받으시겠습니다(y/n)? ");
             char yesno = sc.next().charAt(0);
-            if (yesno == 'n' || yesno == 'N') break; //탈출구문
+            if (yesno == 'n' || yesno == 'N') break; //탈출구문//
         }
     }
 }

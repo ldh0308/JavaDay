@@ -9,4 +9,4 @@ public class MainInputTest {
         System.out.println(name);
         System.out.println(su);
     }
-}
+} //

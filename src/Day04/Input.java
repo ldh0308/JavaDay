@@ -14,4 +14,4 @@ public class Input {
         System.out.println(su + ", " + name
         );
     }
-}
+} //

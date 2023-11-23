@@ -8,7 +8,7 @@ public class ControlWhile {
         }
         System.out.println("\nwhile ---");
         int a = 1; // 변수의 초기화 필수
-        while ( a <= 3) { // while( a++ <= 3) { System.out.println(a + "\t"); }
+        while ( a <= 3) { // while( a++ <= 3) { System.out.println(a + "\t"); }//
             System.out.print(a + "\t");
             a++; //증감식
         }

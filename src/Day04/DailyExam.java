@@ -59,7 +59,7 @@ public class DailyExam {
             if (flag.equals("n") || flag.equals("N")) break; // 탈출구문
 //            flag.equalsIgnoreCase("n") 도 가능
 //            if(flag.toUpperCase().equals("N")) break;
-//            if(flag.toLowerCase().equals("n")) break;
+//            if(flag.toLowerCase().equals("n")) break;//
 
         }
     }

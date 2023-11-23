@@ -7,7 +7,7 @@ public class DoWhileGugudan {
         do {
             int y = 1;
             System.out.println( x + "*" + y + "x + (x+y)");
-            x++;
+            x++;//
 
     }*/
 }

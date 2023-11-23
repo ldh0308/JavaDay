@@ -1,6 +1,6 @@
-package Day03_Exception;
+package Day03;
 
-public class MainEntry {
+public class ExceptionMainEntry {
     public static void main(String[] args) {
         int x = 30, y = 0;
         int result = 0;

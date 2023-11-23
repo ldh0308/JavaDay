@@ -1,4 +1,4 @@
-package Day03_ControlFor;
+package Day03;
 
 public class ForExample {
     public static void main(String[] args) {

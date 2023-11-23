@@ -1,4 +1,4 @@
-package Day03_ControlFor;
+package Day03;
 
 // 1~100중에 3의 배수의 합과 개수 구하는 프로그램 작성
 public class ForExample02 {

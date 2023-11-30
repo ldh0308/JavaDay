@@ -9,17 +9,17 @@ public class MethodQuiz {
     //   평균 함수 average( ~~ ) - 평균 구하는 함수
     //   평점(학점) grade( ~~ ) - 학점 구하는 함수
     //   출력 함수 output( ) - 결과 출력하는 함수
-public static int input() {
+    public static int input() {
 //    System.out.println("이름, 국어, 영어, 전산 점수를 기재하세요");
-    Scanner sc = new Scanner(System.in);
-    int score = 0;
+        Scanner sc = new Scanner(System.in);
+        int score = 0;
 
-    score = sc.nextInt();
+        score = sc.nextInt();
 
-    return score;
+        return score;
 
 
-}
+    }
 ////public static void input() {
 ////    System.out.println("이름, 국어, 영어, 전산 점수를 기재하세요");
 ////    Scanner sc = new Scanner(System.in);
@@ -61,8 +61,9 @@ public static int input() {
         com = input();
 
     }
-    public static int getTotal(int kor, int eng, int math){
-        return kor+eng+math;
+
+    public static int getTotal(int kor, int eng, int math) {
+        return kor + eng + math;
 
 //    public static void main(String[] args) {
 //        Scanner sc = new Scanner(System.in);  // 객체 생성, 메모리에 할당, 생성자함수자동호출
@@ -142,4 +143,5 @@ public static int input() {
 //	국어 : 100, 영어: 100, 전산 : 100
 //	총점 : 300, 평균: 100.00, 학점 : A
 //*/
+    }
 }

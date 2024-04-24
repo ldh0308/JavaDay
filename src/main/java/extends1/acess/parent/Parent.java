@@ -1,4 +1,4 @@
-package org.extends1.acess.parent;
+package extends1.acess.parent;
 
 public class Parent {
     public int publicValue;

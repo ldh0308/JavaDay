@@ -1,7 +1,7 @@
-package org.extends1.acess;
+package extends1.acess;
 
-import org.extends1.acess.child.Child;
-import org.extends1.acess.parent.Parent;
+import extends1.acess.child.Child;
+import extends1.acess.parent.Parent;
 
 public class ExtendsAccessMain {
     public static void main(String[] args) {

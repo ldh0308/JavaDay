@@ -1,4 +1,4 @@
-package org.extends1.super2;
+package extends1.super2;
 
 public class ClassA {
     public ClassA() {

@@ -1,6 +1,6 @@
-package org.extends1.acess.child;
+package extends1.acess.child;
 
-import org.extends1.acess.parent.Parent;
+import extends1.acess.parent.Parent;
 
 public class Child extends Parent {
 
